@@ -1,0 +1,54 @@
+body{
+    background-color: #EEEEEE;
+}
+nav{
+    background-color: white;
+}
+a{
+    text-decoration: none;
+   
+}
+.card-body a{
+    text-decoration: none;
+    color: black;
+}
+.card-body a :hover{
+    text-decoration: underline;
+}
+.card-body p{
+    color: rgba(0, 0, 0, 0.597);
+    padding-top: 15px;
+}
+.card-body p i{
+    color: black;
+    margin-left: 180px;
+}
+.color :hover{
+    background-color: rgb(237, 235, 235);
+}
+#lo a:hover{
+    text-decoration: underline;
+}
+#footer1{
+    text-align: center;
+}
+#footer1 a:hover{
+    text-decoration: none;
+    text-decoration: underline;
+    background-color: lightblue;
+    transition: 0.5s;
+}
+.list-group-flush a :hover{
+    background-color: lightslategrey;
+}
+#link a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    transition: 0.5s;
+}
+#link a:hover{
+    text-decoration: underline;
+    color: blue;
+    transition: 0.4s;
+}
+
